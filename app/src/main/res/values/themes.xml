@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Mochi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FFF8F1</item>
+    </style>
+</resources>
